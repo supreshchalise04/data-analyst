@@ -1,1 +1,31 @@
+# 🎓 Students Data Analysis
+
+This repository contains a Jupyter Notebook for analyzing student data.
+
+## 📄 File
+
+- `students data-checkpoint.ipynb`:  
+  A checkpoint version of the notebook used for data analysis on student-related information.  
+  Tasks may include:
+  - Data loading and cleaning
+  - Statistical analysis
+  - Visualization (e.g., marks distribution, performance trends)
+  - Summary reports
+
+> ⚠ This is a Jupyter auto-saved checkpoint file. It is recommended to upload the main version (`students data.ipynb`) as well for clarity.
+
+## ✅ Requirements
+
+To run the notebook, make sure you have the following installed:
+
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib / seaborn (optional)
+
+Install with pip:
+
+```bash
+pip install pandas numpy matplotlib seaborn
 
