@@ -1,0 +1,24 @@
+# 📊 Data Analysis Notebook
+
+This repository contains a Jupyter Notebook used for basic data analysis.
+
+## 📁 File
+
+- `dataanylsis-checkpoint.ipynb`: A Jupyter Notebook with data analysis steps such as data cleaning, exploration, and visualization.
+
+> Note: This is a checkpoint file automatically saved by Jupyter. The main working file may be named `dataanylsis.ipynb`.
+
+## ✅ Requirements
+
+Make sure you have the following installed:
+
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- numpy
+- matplotlib
+- seaborn (optional)
+
+### Install required packages:
+```bash
+pip install pandas numpy matplotlib seaborn
